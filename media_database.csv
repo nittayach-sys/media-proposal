@@ -1,0 +1,153 @@
+﻿Category,Media Type,Media Name,Quantity/Detail,Min/Loop,Rate Card (THB/Month),Agency Rate (THB/Month),Production Cost (THB),Remark
+Move,Static,Bus Full Wrap,10 - 50 Units,,28500.0,21000.0,90000.0,
+Move,Static,Bus Full Wrap,51 Units or more,,27000.0,20000.0,90000.0,
+Move,Static,Bus Half Wrap,10 - 35 Units,,20500.0,16500.0,45000.0,
+Move,Digital,Bus Quarter Wrap,Minimum 10 Buses,,22000.0,16000.0,0,Minimum 10 Cars / Month and Minimum 6 Month rental for media.
+Move,Static,In Bus,"NGV, EURO (Min. 30 buses)",,5000.0,5000.0,5000.0,ราคาคือต่อ 1 คัน / ค่าสื่อ Direct และ Agency เท่ากัน
+Move,Static,In Bus,EV (Min. 30 buese),,5000.0,5000.0,8000.0,ราคาคือต่อ 1 คัน / ค่าสื่อ Direct และ Agency เท่ากัน
+Move,Static,Hanger,50 Units/Bus (แบบสามารถดึงหรือหยิบกลับได้),,5000.0,5000.0,7500.0,
+Move,Digital,Move TV,200 Screens (2 Screens / Bus) No. of Bus : 100 Buses,,160000.0,120000.0,0,
+Move,Static,"MuvAds Option 1 : In the  ""Chula - Samyan area""",รบกวนเช็ครถว่างอีกครั้ง,,12500.0,9200.0,6000.0,Minimum 10 Cars / Month and Minimum 1 Month rental for media.
+Move,Static,"MuvAds Option 1 : In the  ""Chula - Samyan area""",รบกวนเช็ครถว่างอีกครั้ง,,8800.0,6500.0,3500.0,Minimum 10 Cars / Month and Minimum 1 Month rental for media.
+Move,Static,"MuvAds Option 2 : Outside the  ""Chula - Samyan area""",รบกวนเช็ครถว่างอีกครั้ง,,8800.0,6500.0,6000.0,Minimum 10 Cars / Month and Minimum 1 Month rental for media.
+Move,Static,"MuvAds Option 2 : Outside the  ""Chula - Samyan area""",รบกวนเช็ครถว่างอีกครั้ง,,6000.0,4500.0,3500.0,Minimum 10 Cars / Month and Minimum 1 Month rental for media.
+Move,Digital,NCA Bus,Min. 10 Buses,,8200.0,6560.0,0,- ค่าผลิตรวมอยู่ในราคาค่าสื่อแล้ว หมายเหตุ : จากเงื่อนไขด้านบน จะต้องซื้อขั้นต่ำอย่างน้อย 3 เดือนขึ้นไป
+Move,Digital,Bus Station,Min. Ads 1 Month,,220000.0,165000.0,0,- ค่าผลิตรวมอยู่ในราคาค่าสื่อแล้ว หมายเหตุ : จากเงื่อนไขด้านบน จะต้องซื้อขั้นต่ำอย่างน้อย 1 เดือนขึ้นไป
+Rail,Digital,PID's@MRT,"1,191 Screens",2 Mins,540000.0,370000.0,0,"Guaranteed 1,131 Screens"
+Rail,Digital,Digital MRT,112 screens,2 Mins,625000.0,390000.0,0,"Promotion rate for Agency : THB 390,000 / Month"
+Rail,Digital,THE BOMBARD + PIDs,THE BOMBARD : 12 Stations,304680.0,1590000.0,761700.0,0,
+Rail,Digital,THE BOMBARD Pack 1,12 Stations,,761700.0,1050000.0,0,
+Horizon,Static,Gateway Billboard (ขั้นที่ 1) - ด่านดินแดง,2 Panels,,1400000.0,1050000.0,375000.0,
+Horizon,Static,Gateway Billboard (ขั้นที่ 1) - ด่านบางนา,2 Panels,,1400000.0,1050000.0,350000.0,
+Horizon,Static,Gateway Billboard (ขั้นที่ 1) - ด่านสาธุประดิษฐ์,2 Panels,,935000.0,700000.0,375000.0,
+Horizon,Static,Gateway Billboard (ขั้นที่ 1) - ด่านพระราม 9-2,1 Panel,,535000.0,400000.0,187500.0,
+Horizon,Static,Gateway Billboard (ขั้นที่ 1) - ด่านรามอินทรา,1 Panel,,950000.0,712500.0,187000.0,
+Horizon,Static,Gateway Billboard (ขั้นที่ 1) - ด่านพระราม 4-2,1 Panel,,660000.0,495000.0,67500.0,
+Horizon,Static,Gateway Billboard (ขั้นที่ 1) - ด่านพระราม 4-1,1 Panel,,390000.0,292500.0,60000.0,
+Horizon,Static,Gateway Billboard (ขั้นที่ 1) - ด่านสุขุมวิท 62,1 Panel,,265000.0,200000.0,150000.0,
+Horizon,Static,Gateway Billboard (ขั้นที่ 1) - ด่านเลียบแม่น้ำ,4 Panels,,135000.0,100000.0,60000.0,
+Horizon,Static,Gateway Billboard (ขั้นที่ 1) - ด่านสุขุมวิท – เพลินจิต,1 Panel,,265000.0,200000.0,60000.0,
+Horizon,Static,Gateway Billboard (ขั้นที่ 1) - ด่านประชาอุทิศ,1 Panel,,390000.0,292500.0,90000.0,
+Horizon,Static,Gateway Billboard (ขั้นที่ 1) - ด่านลุมพินี ขาเข้า,1 Panel,,950000.0,712500.0,180000.0,
+Horizon,Static,Gateway Billboard (ขั้นที่ 1) - ด่านลุมพินี ขาออก,1 Panel,,1200000.0,900000.0,258000.0,
+Horizon,Static,Gateway Billboard (ขั้นที่ 2) - ด่านประชาชื่น (ขาเข้า),1 Panel,,1400000.0,1050000.0,300000.0,
+Horizon,Static,Gateway Billboard (ขั้นที่ 2) - ด่านประชาชื่น (ขาออก),1 Panel,,1400000.0,1050000.0,300000.0,
+Horizon,Static,Gateway Billboard (ขั้นที่ 2) - ด่านอโศก 3,2 Panels,,1400000.0,1050000.0,312500.0,
+Horizon,Static,Gateway Billboard (ขั้นที่ 2) - ด่านอโศก 4,2 Panels,,1400000.0,1050000.0,300000.0,
+Horizon,Static,Gateway Billboard (ขั้นที่ 2) - ด่านศรีนครินทร์,2 Panels,,1400000.0,1050000.0,300000.0,
+Horizon,Static,Gateway Billboard (ขั้นที่ 2) - ด่านอโศก 1,1 Panel,,335000.0,250000.0,175000.0,
+Horizon,Static,Gateway Billboard (ขั้นที่ 2) - ด่านพระราม 9,1 Panel,,200000.0,150000.0,67500.0,
+Horizon,Static,Gateway Billboard (ขั้นที่ 2) - ด่านสะพานสว่าง,1 Panel,,255000.0,190000.0,175000.0,
+Horizon,Static,Gateway Billboard (ขั้นที่ 2) - ด่านหัวลำโพง,1 Panel,,255000.0,190000.0,150000.0,
+Horizon,Static,Gateway Billboard (ขั้นที่ 2) - ด่านสาทร,1 Panel,,390000.0,292500.0,125000.0,
+Horizon,Static,Gateway Billboard (ขั้นที่ 2) - ด่านย่านพหลโยธิน,1 Panel,,107000.0,80000.0,100000.0,
+Horizon,Static,Gateway Billboard (ขั้นที่ 2) - ด่านจันทร์,1 Panel,,65000.0,50000.0,62500.0,
+Horizon,Static,Flyover - A : Rama 4 Inbound,1 Panel,,255000.0,190000.0,105000.0,
+Horizon,Static,Flyover - B : Petchburi - Chidlom,1 Panel,,255000.0,190000.0,105000.0,
+Horizon,Static,Flyover - C : Victory Monument,1 Panel,,255000.0,190000.0,105000.0,
+Horizon,Static,Flyover - D : Sathorn - Chareon Krung,1 Panel,,255000.0,190000.0,105000.0,
+Horizon,Static,Flyover - E : Ekamai - Rama 9,1 Panel,,255000.0,190000.0,105000.0,
+Horizon,Static,Flyover - F : Rama 4 Outbound,1 Panel,,255000.0,190000.0,80000.0,
+Horizon,Static,Flyover - G : Chaturathit,1 Panel,,255000.0,190000.0,90000.0,
+Horizon,Static,Flyover - H : Klong Toey - Rama 3,1 Panel,,255000.0,190000.0,80000.0,
+Horizon,Static,Flyover - I : Petchburi - Nana,1 Panel,,255000.0,190000.0,45000.0,
+Horizon,Static,Flyover - J : Sukhumvit - Ploenchit,1 Panel,,255000.0,190000.0,90000.0,
+Horizon,Static,Flyover - K : Dindang - Victory monument,1 Panel,,255000.0,190000.0,80000.0,
+Horizon,Static,Flyover - L : Narathiwas - Chant,1 Panel,,255000.0,190000.0,80000.0,
+Horizon,Static,Flyover - M : Ratchayothin - Rama 7,1 Panel,,255000.0,190000.0,105000.0,
+Horizon,Static,Flyover - N : Ratchada - Rama 3,1 Panel,,255000.0,190000.0,80000.0,
+Horizon,Static,Flyover - O : Rama 9 - Ekamai,1 Panel,,135000.0,100000.0,105000.0,
+Horizon,Static,Flyover - P : Mahanakorn - Hualampong,1 Panel,,135000.0,100000.0,105000.0,
+Horizon,Static,Flyover - Q : Sri Ayuthaya - Phayathai,1 Panel,,135000.0,100000.0,105000.0,
+Horizon,Static,Flyover - R : Hualampong - Mahanakorn,1 Panel,,135000.0,100000.0,105000.0,
+Horizon,Static,Flyover - S : Phayathai - Rama 6,1 Panel,,135000.0,100000.0,105000.0,
+Horizon,Static,Flyover - T : Silom - Charoenkrung,1 Panel,,135000.0,100000.0,105000.0,
+Horizon,Static,Flyover - U : Ramintra - Watcharaphol,1 Panel,,135000.0,100000.0,90000.0,
+Horizon,Static,The Skyline - Skyline A,1 Panel,,900000.0,720000.0,540000.0,
+Horizon,Static,The Skyline - Skyline B,1 Panel,,1000000.0,800000.0,160000.0,
+Canvas,Static,Pole Wrap - พระราม 4 - สาทร,2 Poles,,200000.0,150000.0,63000.0,ราคาค่าผลิต ต่อ 1 แพ็ค
+Canvas,Static,Pole Wrap - สุขุมวิท - เพลินจิต,6 Panels,,175000.0,132000.0,55000.0,ราคาค่าผลิต ต่อ 1 แพ็ค
+Canvas,Static,Pole Wrap - แยกมารยาท (ก่อนขึ้นทางด่วนพระราม 9),3 Panels / Pack,,200000.0,150000.0,34000.0,ราคาค่าผลิต ต่อ 1 แพ็ค
+Canvas,Static,Pole Wrap - พระราม 9 (RCA),6 Panels / Pack,,200000.0,150000.0,54000.0,ราคาค่าผลิต ต่อ 1 แพ็ค
+Canvas,Static,Pole Wrap - สี่แยกพระราม 9 (เลียบทางด่วนเอกมัย),6 Poles,,330000.0,247500.0,287000.0,ราคาค่าผลิต ต่อ 1 แพ็ค
+Canvas,Static,Pole Wrap - พระราม 9 – รามคำแหง,3 Panels / Pack,,160000.0,120000.0,1.0,ราคาค่าผลิต ต่อ 1 แพ็ค
+Canvas,Static,Pole Wrap - สีลม – สาทร,3 Poles / Pack,,160000.0,120000.0,1.0,ราคาค่าผลิต ต่อ 1 แพ็ค
+Canvas,Static,Pole Wrap - สาทร – นราธิวาส,6 Poles,,330000.0,247500.0,186000.0,ราคาค่าผลิต ต่อ 1 แพ็ค
+Canvas,Static,Pole Wrap - อุรุพงษ์ – ยมราช,3 Panels,,200000.0,150000.0,56000.0,ราคาค่าผลิต ต่อ 1 แพ็ค
+Canvas,Static,Pole Wrap - ดินแดง,4 Panels / Pack,,160000.0,120000.0,36000.0,ราคาค่าผลิต ต่อ 1 แพ็ค
+Canvas,Static,Pole Wrap - มหานคร,1 Pole,,180000.0,135000.0,65000.0,ราคาค่าผลิต ต่อ 1 แพ็ค
+Canvas,Static,Metro Poster,20 Units,,1400000.0,1050000.0,180000.0,ราคาค่าผลิตต่อ 1 แบบภาพโฆษณา
+Canvas,Static,"Serie Poster - Pack 1, 2, 10",6 Panels / Pack,,400000.0,300000.0,270000.0,
+Canvas,Digital,"Serie Poster - Pack 3, 4, 7, 8, 9",6 Panels / Pack,,347000.0,260000.0,0,
+Canvas,Digital,"Serie Poster - Pack 5, 6",6 Panels / Pack,,267000.0,200000.0,0,
+Canvas,Digital,Cookies Full,Cookies : 60 Poles / Pack (120 Panels) Cream : 50 Digital Screens,,1440000.0,1080000.0,0,
+Canvas,Digital,Online (Topup),FB+ IG or Ticktok,,140000.0,140000.0,0,
+Canvas,Digital,Mini Cookies,Cookies : 30 Poles / Pack (60 Panels) Cream : 50 Digital Screens (1.5 Mins),,932000.0,699000.0,0,
+Canvas,Digital,Cookie,Cookies : 25 Poles / Pack (50 Panels),,650000.0,487500.0,0,
+Canvas,Digital,Cream,Cream : 50 Digital Screens (5 Mins),,675000.0,495000.0,0,
+Signature screen,Digital,The 20,37 Poles  (74 Screens),3 Mins,1950000.0,1500000.0,0,
+Signature screen,Digital,BRAVO BKK,3 Screens,3 Mins,550000.0,412500.0,0,
+Signature screen,Digital,The District EM,15 Screens,2 Mins,390000.0,292500.0,0,ต้องส่งเนื้อหาโฆษณาให้ทางพื้นที่พิจารณาอนุมัติก่อนขึ้นสื่อ
+Signature screen,Digital,UOB LIVE,1 Screen,1.5 Mins,150000.0,112500.0,0,ต้องส่งเนื้อหาโฆษณาให้ทางพื้นที่พิจารณาอนุมัติก่อนขึ้นสื่อ
+Signature screen,Digital,The District EM + UOB LIVE,16 Screens,2 Mins : The District EM 1.5 mins : UOB LIVE,490000.0,367500.0,0,ต้องส่งเนื้อหาโฆษณาให้ทางพื้นที่พิจารณาอนุมัติก่อนขึ้นสื่อ
+Signature screen,Digital,Parc Paragon + The 90 Degree & Interchange 21,4 Screens,2 Mins,960000.0,720000.0,0,ต้องส่งเนื้อหาโฆษณาให้ทางพื้นที่พิจารณาอนุมัติก่อนขึ้นสื่อ
+Signature screen,Digital,The Panoramix Centralworld,1 Location,5 Mins,2600000.0,1950000.0,0,ต้องส่งเนื้อหาโฆษณาให้ทางพื้นที่พิจารณาอนุมัติก่อนขึ้นสื่อ
+Signature screen,Digital,Signature Max 3.0,15 Screens,1.5 Mins,2260000.0,1468000.0,0,
+Signature screen,Digital,Twin Tube+,3 Screens,3 Mins,515000.0,386000.0,0,
+Signature screen,Digital,Base,3 Screens,3 Mins,630000.0,472500.0,0,
+Signature screen,Digital,SO Bangkok,2 Screens,3 Mins,298000.0,223500.0,0,
+Signature screen,Digital,Ploenchit Interchange,1 Screen,3 Mins,350000.0,262500.0,0,
+Signature screen,Digital,At Narong Interchange,1 Screen,3 Mins,420000.0,315000.0,0,
+Signature screen,Digital,LIDO CONNECT : Digital Screens,1 Screen,15 Mins,490000.0,367500.0,0,
+Signature screen,Digital,LIDO CONNECT : Light Box & Sticker Wrap,10 areas,,500000.0,375000.0,0,"Production : 567,000THB/Pack/Time Light box & Sticker wrap จะต้องทำการซื้อร่วมกับ Digital Screen เท่านั้น"
+Signature screen,Digital,Paragon Façade,2 Screens,2 Mins,340000.0,255000.0,0,ต้องส่งเนื้อหาโฆษณาให้ทางพื้นที่พิจารณาอนุมัติก่อนขึ้นสื่อ
+Signature screen,Digital,LA Plan B,1 Screen,3 Mins,280000.0,210000.0,0,
+Signature screen,Digital,Exchange Tower,1 Screen,3 Mins,550000.0,412500.0,0,
+Signature screen,Digital,Air Traveller Gateway,1 Screen,3 Mins,250000.0,187500.0,0,ต้องส่งไฟล์งานให้ AOT ตรวจสอบอย่างน้อย 7 วัน ก่อนเริ่มขึ้นออนแอร์
+Signature screen,Digital,Central Park,1 Screen,3 Mins,250000.0,187500.0,0,ต้องส่งเนื้อหาโฆษณาให้ทางพื้นที่พิจารณาอนุมัติก่อนขึ้นสื่อ
+The Network,Digital,Plan B TV 240,240 Screens,1.5 Mins,3690000.0,2750000.0,0,
+The Network,Digital,Plan B TV 80RED / 80BLUE,80 Screens,1.5 Mins,1690000.0,1280000.0,0,
+The Network,Digital,Plan B TV 40RED / 40BLUE,40 Screens,1.5 Mins,900000.0,700000.0,0,
+The Network,Digital,Plan B TV Nationwide Full,120 Screens,1.5 Mins,1720000.0,1280000.0,0,
+The Network,Digital,Nationwide 57RED / 57BLUE,57 Screens,1.5 Mins,1000000.0,750000.0,0,
+BKK Prime,Digital,Bangkok Jams,50 Screens,2.5 Mins,900000.0,674000.0,0,
+BKK Prime,Digital,Bangkok Jams 2.0,44 Screens,6 Mins,1800000.0,1360000.0,0,
+BKK Prime,Digital,Bangkok Jams 2.0,44 Screens,3 Mins,1110000.0,827000.0,0,
+BKK Prime,Digital,CITY TV,23 Screens,3.5 Mins,250000.0,180000.0,0,
+BKK Prime,Digital,Rama 9 Connected,1 Screens,2 Mins,150000.0,112500.0,0,
+BKK Prime,Digital,Digital Gateway X,76 Screens,4 Mins,630000.0,315000.0,0,
+Retail (Luxury),Digital,NEXTOPIA SIAM PARAGON,1 Unit,3 Mins,100000.0,75000.0,0,ต้องส่งเนื้อหาโฆษณาให้ทางพื้นที่พิจารณาอนุมัติก่อนขึ้นสื่อ
+Retail (Luxury),Digital,Siam Paragon in Mall media,104 Units,1.5 Mins (Digital Poster : 3 Mins),398000.0,318400.0,0,ต้องส่งเนื้อหาโฆษณาให้ทางพื้นที่พิจารณาอนุมัติก่อนขึ้นสื่อ
+Retail (Luxury),Digital,Paragon Motion Block,9 Locations,3 Mins,200000.0,150000.0,0,ต้องส่งเนื้อหาโฆษณาให้ทางพื้นที่พิจารณาอนุมัติก่อนขึ้นสื่อ
+Retail (Luxury),Digital,Central Network - Central 360,1 Branch (3 Screens),3 Mins,220000.0,165000.0,0,ต้องส่งเนื้อหาโฆษณาให้ทางพื้นที่พิจารณาอนุมัติก่อนขึ้นสื่อ
+Retail (Luxury),Digital,Central Network,14 Branch (281 Screens),4.5 Mins,498000.0,376000.0,0,ต้องส่งเนื้อหาโฆษณาให้ทางพื้นที่พิจารณาอนุมัติก่อนขึ้นสื่อ
+Retail (Luxury),Digital,Central Network MAX,14 Branch (284 Screens),3 Mins : CencralWorld 360 4.5 Mins : Central Network,550000.0,415000.0,0,ต้องส่งเนื้อหาโฆษณาให้ทางพื้นที่พิจารณาอนุมัติก่อนขึ้นสื่อ
+Retail (Instore),Digital,7 - Eleven Plus,"Multimedia : GBKK+UPC Metro LED POS (Commit 10,000 Locations) Radio (MG 500,000 Spots/Month)",2 Mins,2710000.0,2030000.0,0,
+Retail (Instore),Digital,7 - Eleven Plus,"Multimedia : GBKK Metro LED POS (Commit 10,000 Locations) Radio (MG 500,000 Spots/Month)",2 Mins,2042000.0,1530000.0,0,
+Retail (Instore),Digital,7 - Eleven Plus,"Multimedia : GBKK+UPC Metro LED POS (Commit 10,000 Locations) Radio (MG 500,000 Spots/Month)",1 Min,1427000.0,1070000.0,0,
+Retail (Instore),Digital,7 - Eleven Plus,"Multimedia : GBKK Metro LED POS (Commit 10,000 Locations) Radio (MG 500,000 Spots/Month)",1 Min,1069000.0,800000.0,0,
+Airport (Fly),Digital,Air traveller 2.0,95 Screens,3 Mins,635000.0,475000.0,0,
+Airport (Fly),Digital,Air traveller supreme,250 screens (132 Stations),4 Mins,535000.0,401500.0,0,
+Airport (Fly),Digital,Air Traveller Series (Full),34 Panels,3 Mins,855000.0,655000.0,0,
+Airport (Fly),Digital,Air Traveller Series (In),17 Panels,3 Mins,560000.0,420000.0,0,
+Airport (Fly),Digital,Air Traveller Series (Out),17 Panels,3 Mins,490000.0,360000.0,0,
+Airport (Fly),Digital,Don Mueang Digital Network,Don Mueang Digital Network : 90 Screens LED Station : 127 Station,2 Mins,375000.0,285000.0,0,
+Airport (Fly),Digital,Thai Airways (Option 1),A : (Boarding) B : (After taking off) C : (Before Movie) D : (Before Landing),-,600000.0,450000.0,0,
+Airport (Fly),Digital,Thai Airways (Option 2),A : (Boarding) D : (Before Landing),-,280000.0,210000.0,0,
+Airport (Fly),Digital,Thai Airways (Option 3),A : (Boarding),-,170000.0,127500.0,0,
+Airport (Fly),Digital,Boarding Pass,250K,,625000.0,469000.0,0,
+Airport (Fly),Digital,Boarding Pass,500K,,950000.0,712500.0,0,
+Airport (Fly),Digital,Product Sampling,1-20,,32000.0,24000.0,0,
+Airport (Fly),Digital,Product Sampling,21-50,,29300.0,22000.0,0,
+Airport (Fly),Digital,Product Sampling,51-100,,26700.0,20000.0,0,
+Airport (Fly),Digital,Product Sampling,100 up,,22700.0,17000.0,0,
+Airport (Fly),Digital,THAI AIRWAYS IN-FLIGHT MEDIA (DOMESTIC & CLMV ROUTES),18 Aircrafts,"THB 95,000",30.0,95000.0,0,
+Airport (Thai Flight),Digital,Airport Digital Network (Full),215 Screens,3 Mins,307000.0,231000.0,0,
+Airport (Thai Flight),Digital,Airport Digital Network (LED Station Only),127 screens,3 Mins,225000.0,169000.0,0,
+Airport (Thai Flight),Digital,Airport Digital Network (Baggage Claim Only),7 Screens,3 Mins,100000.0,75000.0,0,
+Airport (Thai Flight),Digital,Airport Digital Network (Mobile Charging Only),37 Screens,3 Mins,125000.0,95000.0,0,
+Airport (Thai Flight),Digital,LED POLE,44 Screen,3 Mins,125000.0,95000.0,0,
+Airport Static Media,Static,Airport Static - TIER 1 (< 10.00 SQ.M.),8 AIRPORTS,,0,80000.0,0,Production cost not specified in source; verify before quoting.
+Airport Static Media,Static,Airport Static - TIER 1 (≥ 10.00 SQ.M.),,,0,100000.0,0,Production cost not specified in source; verify before quoting.
+Airport Static Media,Static,Airport Static - TIER 2 (< 10.00 SQ.M.),14 AIRPORTS,,0,50000.0,0,Production cost not specified in source; verify before quoting.
+Airport Static Media,Static,Airport Static - TIER 2 (≥ 10.00 SQ.M.),,,0,70000.0,0,Production cost not specified in source; verify before quoting.
